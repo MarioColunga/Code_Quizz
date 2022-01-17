@@ -4,8 +4,11 @@ This app consist to take a timed quiz on JavaScript fundamentals that stores hig
 
 This application consists of a multiple choice quizz on the fundamentals of JavaScripst. The app allows you to save your score so you can compare your progress with your peers'. The quizz is timed and for each question answered incorrectly, there is a penalty on the time remaining to complete the quiz. Accept the challenge.
 
+Links:
+App
+https://mariocolunga.github.io/Code_Quizz/
 
-* Application deployed at live URL.
 
-* Application GitHub URL. 
+Repository Code
+https://github.com/MarioColunga/Code_Quizz.git
 
